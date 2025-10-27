@@ -9,8 +9,8 @@ def get_configs():
         "device": get_device(),
         "reference_checkPoint": "EVA02-E-14-plus",           # Teacher
         "candidate_checkpoint": "setu4993/smaller-LaBSE",     # Student
-        "train_path": "train.csv",
-        "val_path": "val.csv",
+        "train_path": "data/train.csv",
+        "val_path": "data/val.csv",
         "save_path": "./best_student_model.pth",
         "english": "en",
         "persian": "fa",
