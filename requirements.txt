@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+open_clip_torch
+transformers
+torch
+datasets
+tqdm
+gdown
